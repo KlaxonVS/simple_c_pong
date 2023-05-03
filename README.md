@@ -14,6 +14,18 @@ C project made as a part of first week of C study.
 * Use GCC: `gcc -Wall -Werror -Wextra pong.c -lncurses`
 * Use Makeile by simply: `make`
 
+## Controls:
+
+### To exit:
+
+* `q`
+
+### Left player
+* up/down `a` / `z`
+
+### Right player
+* up/down `k` / `m`
+
 ```
 ============ 01 ====================================  00 ============
 
