@@ -1,5 +1,5 @@
 # Simple pong in C ver. 0.01)
-C project made as a part of first week of C study.
+C project made as a part of first week of study.
 
 ## Libaries:
 
